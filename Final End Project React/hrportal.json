@@ -1,0 +1,99 @@
+{
+  "logins": [
+    {
+      "emailId": "hr@gmail.com",
+      "password": "hr@123",
+      "typeOfUser": "hr",
+      "id": "7625"
+    },
+    {
+      "id": "f920",
+      "emailId": "surya@gmail.com",
+      "typeOfUser": "employee",
+      "password": "emp@123"
+    },
+    {
+      "id": "a04d",
+      "emailId": "hello@gmail.com",
+      "typeOfUser": "employee",
+      "password": "emp@123"
+    },
+    {
+      "id": "a50f",
+      "emailId": "john@gmail.com",
+      "typeOfUser": "employee",
+      "password": "temp"
+    }
+  ],
+  "employees": [
+    {
+      "id": "5a63",
+      "name": "Surya Bharath Rao",
+      "email": "surya@gmail.com",
+      "position": "Employee",
+      "department": "IT",
+      "typeOfUser": "employee",
+      "leaves": [
+        {
+          "reason": "Leave2",
+          "status": "Approved"
+        },
+        {
+          "reason": "leave3",
+          "status": "Denied"
+        },
+        {
+          "reason": "Feeling Sick",
+          "status": "Approved"
+        },
+        {
+          "reason": "Headache",
+          "status": "Denied"
+        },
+        {
+          "reason": "Test Leave",
+          "status": "Approved"
+        },
+        {
+          "reason": "Test1",
+          "status": "Pending"
+        },
+        {
+          "reason": "Test2",
+          "status": "Pending"
+        },
+        {
+          "reason": "Test3",
+          "status": "Pending"
+        },
+        {
+          "reason": "Test4",
+          "status": "Approved"
+        }
+      ]
+    },
+    {
+      "id": "57b9",
+      "name": "Nikhila Suraneni",
+      "email": "hello@gmail.com",
+      "position": "Data Analyst",
+      "department": "Sales",
+      "typeOfUser": "employee",
+      "leaves": [
+        {
+          "reason": "Nikky Leave1",
+          "status": "Denied"
+        }
+      ]
+    },
+    {
+      "id": "b19e",
+      "name": "John Gernon",
+      "email": "john@gmail.com",
+      "position": "Business Analyst",
+      "department": "Project Management",
+      "typeOfUser": "employee",
+      "leaves": []
+    }
+  ]
+}
